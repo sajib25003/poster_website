@@ -1,0 +1,20 @@
+#hands{
+    width: 100%;
+    margin-top: 100px;
+    border: 5px solid;
+    border-color: white;
+}
+*{
+    background-color: black;
+    color: white;
+}
+h1{
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+
+}
+div{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
